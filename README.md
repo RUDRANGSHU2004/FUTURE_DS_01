@@ -21,9 +21,13 @@ Security: Includes security bindings, suggesting potential implementation of Rol
 ecommerce_sales_34500.csv: The raw dataset used to populate the Power BI report. This file contains transactional data necessary for the sales analysis.
 
 Skill Area,Tools & Technologies
+
 Data Visualization,"Power BI Desktop, Custom Visuals, Interactive Reporting"
+
 Data Modeling,"Star Schema Design, Relationship Management, Data Normalization"
+
 Data Analysis Expressions (DAX),"Measures and Calculated Columns for KPIs (e.g., AOV, Total Revenue), Time Intelligence Functions"
+
 Data Wrangling,"Power Query (M Language, implied by data preparation), CSV/Excel Data Ingestion"
 
 🔑 Key Features
