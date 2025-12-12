@@ -34,3 +34,8 @@ Trend Analysis: Visualize sales performance over time (daily, monthly, yearly).
 Performance Deep-Dive: Analyze performance by product, category, or customer segmentation.
 
 Interactive Design: Utilizes slicers and filters for user-driven data exploration.
+
+📬 Author
+Name: Rudrangshu Bose
+Email: rudrangshubose@gmail.com
+LinkedIn:http://www.linkedin.com/in/rudrangshu-bose-03a83228b
